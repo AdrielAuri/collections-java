@@ -1,3 +1,5 @@
+package list.operacoesBasicas;
+
 public class Tarefa {
     //atributo
     private String descricao;
