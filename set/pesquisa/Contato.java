@@ -1,4 +1,4 @@
-package set.conjuntoConvidados.pesquisa;
+package set.pesquisa;
 
 import java.util.Objects;
 
